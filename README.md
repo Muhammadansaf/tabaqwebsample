@@ -1,2 +1,2 @@
-# Bella_Onojie_10-04-24
+# Tabaq Sample
 Discover how to craft a delectable food website with HTML, CSS, and JavaScript
